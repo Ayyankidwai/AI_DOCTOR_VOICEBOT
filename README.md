@@ -150,4 +150,5 @@ python voice_of_the_doctor.py
 ```
 python gradio_app.py
 ```
-
+**SAMPLE VIDEO DEMO**
+https://github.com/user-attachments/assets/7563e024-453d-4ba8-87e4-343b1f9fe1b9
